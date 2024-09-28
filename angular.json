@@ -73,6 +73,7 @@
             },
             "github": {
               "outputHashing": "all",
+              "baseHref": "/angular-demo/",
               "fileReplacements": [
                 {
                   "replace": "projects/demo/src/environments/environment.ts",
