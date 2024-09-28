@@ -76,7 +76,7 @@
               "fileReplacements": [
                 {
                   "replace": "projects/demo/src/environments/environment.ts",
-                  "with": "projects/demo/src/environments/environment.development.ts"
+                  "with": "projects/demo/src/environments/environment.github.ts"
                 }
               ]
             },
