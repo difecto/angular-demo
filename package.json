@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "build:github": "ng build demo --configuration=github --base-href=/angular-demo/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
