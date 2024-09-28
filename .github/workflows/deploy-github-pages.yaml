@@ -1,7 +1,9 @@
 name: Build and publish angular-demo to GitHub Pages
+
 on:
   push:
-    - "master"
+    branches:
+      - "master"
 
 permissions:
   contents: read
